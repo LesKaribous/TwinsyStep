@@ -1,13 +1,12 @@
 #pragma push_macro("abs")
 #undef abs
 
-#include "teensystep4.h"
+#include "TwinsyStep.h"
 #include "timers/timerfactory.h"
 #include "timers/interfaces.h"
-#include "timers/Teensy4/TMR/TMR.h"
+#include "timers/TMR.h"
 
-
-namespace TS4
+namespace TwinsyStep
 {
     void begin(bool useDefaultModule)
     {

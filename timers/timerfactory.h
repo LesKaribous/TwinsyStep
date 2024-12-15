@@ -2,7 +2,7 @@
 
 #include "interfaces.h"
 
-namespace TS4
+namespace TwinsyStep
 {
     namespace TimerFactory
     {

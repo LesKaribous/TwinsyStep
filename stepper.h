@@ -2,7 +2,7 @@
 
 #include "stepperbase.h"
 
-namespace TS4
+namespace TwinsyStep
 {
     class Stepper : public StepperBase
     {

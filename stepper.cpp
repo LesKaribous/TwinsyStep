@@ -6,7 +6,7 @@
 #include "stepper.h"
 #include <algorithm>
 
-namespace TS4
+namespace TwinsyStep
 {
     Stepper& Stepper::setMaxSpeed(int32_t speed)
     {

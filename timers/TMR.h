@@ -1,10 +1,10 @@
 #pragma once
 
-#include "../../interfaces.h"
+#include "interfaces.h"
 #include "Arduino.h"
 #include "imxrt.h"
 
-namespace TS4
+namespace TwinsyStep
 {
     /**
      * Teensy 4.x TMR timer

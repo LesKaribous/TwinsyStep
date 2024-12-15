@@ -6,7 +6,7 @@
 #include "stepperbase.h"
 #include <algorithm>
 
-namespace TS4
+namespace TwinsyStep
 {
     StepperBase::StepperBase(int _stepPin, int _dirPin)
         : s(0), v(0), v_sqr(0), stepPin(_stepPin), dirPin(_dirPin)

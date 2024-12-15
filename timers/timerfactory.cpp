@@ -1,7 +1,7 @@
 #include "timerfactory.h"
 #include <vector>
 
-namespace TS4
+namespace TwinsyStep
 {
     namespace // private
     {

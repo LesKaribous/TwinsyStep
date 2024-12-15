@@ -3,7 +3,7 @@
 #include <functional>
 #include <vector>
 
-namespace TS4
+namespace TwinsyStep
 {
     constexpr int32_t signum(int64_t v)
     {

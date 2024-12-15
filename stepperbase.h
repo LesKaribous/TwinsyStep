@@ -10,7 +10,7 @@
 #include <cstdint>
 #include <string>
 
-namespace TS4
+namespace TwinsyStep
 {
     class StepperBase
     {

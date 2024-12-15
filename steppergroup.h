@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <vector>
 
-namespace TS4
+namespace TwinsyStep
 {
     class StepperGroup : public StepperGroupBase
     {
