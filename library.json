@@ -1,19 +1,18 @@
 {
-  "name": "TeensyStep4",
-  "description": "Experimental stepper driver for Teensy 4.x boards",
+  "name": "TwinsyStep",
+  "description": "Stepper driver for Teensy 4.x boards",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/luni64/TeensyStep4"
+    "url": "https://github.com/LesKaribous/TwinsyStep"
   },
   "authors":
   {
-    "name": "luni64",
-    "url": "https://github.com/luni64",
+    "name": "JulesTopart",
+    "url": "https://github.com/JulesTopart",
     "maintainer": true
   },
-  "homepage": "https://luni64.github.io/TeensyStep4",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "frameworks": "arduino",
   "platforms": ["Teensy"]
 }
